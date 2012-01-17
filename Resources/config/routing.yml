@@ -1,0 +1,3 @@
+symtoo_page:
+    pattern: /{slug}
+    defaults: { _controller: SymtooPageBundle:Page:Show }

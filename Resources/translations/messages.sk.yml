@@ -1,0 +1,12 @@
+Pages: Stránky
+list:
+    label_updated_at: Upravené
+
+form:
+    label_slug: Slug
+    label_body: Obsah
+    
+breadcrumb:
+    link_page_list: Stránky
+    link_page_create: Vytvoriť stránku
+    link_page_edit: Upraviť stránku
